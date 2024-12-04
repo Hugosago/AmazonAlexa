@@ -17,8 +17,7 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 <br>
 <h2 align="center"> Documentación del proyecto </h2>
 
-## Estructura de las carpetas 
-![estructura](https://github.com/user-attachments/assets/68d649da-b3ac-406d-8d88-fc7dd431a271)
+
 
 |No. |Nombre |Potenciador |Estatus |
 |--|--|--|--|
@@ -33,11 +32,14 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
     
 | Captura | Descripción | 
 |:-------------:|:---------------|
-| ![crearcuenta](https://github.com/user-attachments/assets/cfde9cde-fab3-47ec-b9f4-85cec86be706)  width="300" height="100" style="margin-bottom: 5px;"> |Creacion de nuestra de la cuenta de amazaon developer e iniciar sesion |
+| ![crearcuenta](https://github.com/user-attachments/assets/cfde9cde-fab3-47ec-b9f4-85cec86be706)  width="300" height="100" style="margin-bottom: 5px;"> | Creacion de nuestra de la cuenta de amazaon developer e iniciar sesion |
 
-|![alexa](https://github.com/user-attachments/assets/265854f4-7cc3-43f6-b502-836668bf8d54)  width="300" height="100" style="margin-bottom: 5px;"> |Una vez iniciado sesion damos click en developer console y escogemos alexa|
+| ![alexa](https://github.com/user-attachments/assets/265854f4-7cc3-43f6-b502-836668bf8d54)  width="300" height="100" style="margin-bottom: 5px;"> |Una vez iniciado sesion damos click en developer console y escogemos alexa|
 
-| ![ChatScreen](https://github.com/user-attachments/assets/f259b7ca-a2ce-4c4f-904c-63c15272c48d)  width="300" height="100" style="margin-bottom: 5px;"> |El widget `ChatScreen` es la pantalla donde se muestra un chat. Tiene una barra de aplicaciones (AppBar) con un avatar de usuario y un título, y el cuerpo de la pantalla está destinado a mostrar la vista del chat (con `_ChatView` como widget encargado de ello). Esta estructura proporciona una interfaz básica para la pantalla de chat.
+|  ![skillr](https://github.com/user-attachments/assets/cee35217-4c70-4c03-8960-eefe034b797d)  width="300" height="100" style="margin-bottom: 5px;"> | Una vez entrado en alexa le damos en el boton de create skill pones el nombre de tu skill por ejemplo clima fernando y seleccionas el idioma español y damos next|
+
+| ![finalizadaskill](https://github.com/user-attachments/assets/a1f2cdf2-9a88-4aa4-9f0b-e6b51f7f4ce5)  width="300" height="100" style="margin-bottom: 5px;"> | ya despues en la seccion 2 seleccionar smart home y custom damos next, en la seccion 3 damos next y ya en la 4 creamos nuestra skill|
+
 
 <h3> Practica 22 </h3>
 
@@ -60,3 +62,12 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 ## Resultados
 
 ![resultado](https://github.com/user-attachments/assets/9abf27e0-978b-47a6-8827-3ea22d9befe9)
+
+
+
+
+
+
+
+
+
