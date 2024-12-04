@@ -39,6 +39,14 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 |  ![skillr](https://github.com/user-attachments/assets/cee35217-4c70-4c03-8960-eefe034b797d)  width="300" height="100" style="margin-bottom: 5px;"> | Una vez entrado en alexa le damos en el boton de create skill pones el nombre de tu skill por ejemplo clima fernando y seleccionas el idioma español y damos next|
 
 | ![finalizadaskill](https://github.com/user-attachments/assets/a1f2cdf2-9a88-4aa4-9f0b-e6b51f7f4ce5)  width="300" height="100" style="margin-bottom: 5px;"> | ya despues en la seccion 2 seleccionar smart home y custom damos next, en la seccion 3 damos next y ya en la 4 creamos nuestra skill|
+| ![invocacion](https://github.com/user-attachments/assets/bc2a290f-3c35-4335-ac54-b8360ca1d668)  width="300" height="100" style="margin-bottom: 5px;"> | nos vamos a la parte de invocacion(invocations) en skill Invocation Name cambias el nombre yo por ejemplo puse otra vez clima fernando y le damos en build skill aparacera una ventana le damos build|
+|![Intents](https://github.com/user-attachments/assets/67614cb0-5d05-4b63-aa5d-dc11836b2f36)  width="300" height="100" style="margin-bottom: 5px;"> | Nos vamos Interaction Model en Intents y editamos hello world|
+
+|![eliminar](https://github.com/user-attachments/assets/2700bb88-93af-445a-8305-75d5369f594a)  width="300" height="100" style="margin-bottom: 5px;"> | Eliminamos todo lo de hola, como estas , di hola mundo, di hola , hola mundo |
+|![poner](https://github.com/user-attachments/assets/1b7eb673-e6b5-4d5e-a3c9-d40d6812f2a4)  width="300" height="100" style="margin-bottom: 5px;"> | ponemos lo que representa en la imagen y le damos en save |
+|![convertir](https://github.com/user-attachments/assets/ade7d0a3-0df6-4fae-b804-2fb01a5ed3dd)  width="300" height="100" style="margin-bottom: 5px;"> | cnos dirigimos a code y le damos a convertir y ponemos lo seleccionado en la imagen |
+
+
 
 
 <h3> Practica 22 </h3>
@@ -62,6 +70,13 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 ## Resultados
 
 ![resultado](https://github.com/user-attachments/assets/9abf27e0-978b-47a6-8827-3ea22d9befe9)
+
+
+
+
+
+
+
 
 
 
