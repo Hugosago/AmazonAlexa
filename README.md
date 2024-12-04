@@ -12,8 +12,7 @@
 <br>
 
 ## Objetivo
-Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unidad 2 de la asignatura de Desarrollo Móvil Integral, para comprender el uso de `Stateless` y `Statefull Widgets`.
-
+Se busca que el estudiante aprenda a configurar y desarrollar una skill que interactúe con el usuario, utilizando conceptos como intents y modelos de interacción, y a integrar funcionalidades externas como la consulta del clima, todo a través de herramientas como Flutter.
 ---
 
 ## Documentación del Proyecto
